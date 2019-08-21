@@ -5,6 +5,7 @@ ruby '2.6.3'
 
 gem 'devise', '~> 4.7'
 gem 'devise-bootstrap-views'
+gem 'iex-ruby-client'
 gem 'jquery-rails'
 gem 'twitter-bootstrap-rails'
 
